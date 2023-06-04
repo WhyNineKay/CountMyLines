@@ -2,7 +2,7 @@
 CLI
 """
 
-from counter import Settings, LineCounter, Detail, FileData
+from counter import Settings, LineCounter
 from pathlib import Path
 import argparse
 
